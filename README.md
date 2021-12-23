@@ -1,7 +1,5 @@
 ### Hi there, I'm Priyanshu Gautam - aka [website] 👋
 
-[![Website](https://img.shields.io/website?label=Priyanshu Gautam&style=for-the-badge&url=https://priyanshugautam1923.github.io/text_demo/)](https://priyanshugautam1923.github.io/text_demo/)
-
 ## I'm a Sophomore persuing E&ECE at IIT Kharagpur with a keen intrest in web devlopment!!
 
 - 🔭 I just completed my first JavaScript course: [The complete JavaScript course][course]!
