@@ -1,4 +1,4 @@
-### Hi there, I'm Priyanshu Gautam - aka [website] 👋
+### Hi there, I'm Priyanshu Gautam [website] 👋
 
 ## I'm a Sophomore persuing E&ECE at IIT Kharagpur with a keen intrest in web devlopment!!
 
