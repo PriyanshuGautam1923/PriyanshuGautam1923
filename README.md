@@ -5,7 +5,7 @@
 - 🔭 I just completed my first JavaScript course: [The complete JavaScript course][course]!
 - 🌱 I’m currently learning React Js 😃
 - 👯 I’m looking to skill up in other fields and explore more fields
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects and explore college life!
 - ⚡ Fun fact: I love to play Chess
 
 ### Connect with me:
