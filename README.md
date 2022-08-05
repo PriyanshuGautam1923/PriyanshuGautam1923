@@ -1,6 +1,6 @@
 ### Hi there, I'm Priyanshu Gautam [website] 👋
 
-## I'm a Sophomore persuing a dual degree course in E&ECE at IIT Kharagpur with a keen intrest in web devlopment!!
+## I'm a Third Year undergrad persuing a dual degree course in E&ECE at IIT Kharagpur with a keen intrest in web devlopment!!
 
 - 🔭 I just completed my first JavaScript course: [The complete JavaScript course][course]!
 - 🌱 I’m currently learning React Js 😃
