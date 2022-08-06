@@ -2,8 +2,8 @@
 
 ## I'm a Third Year undergrad persuing a dual degree course in E&ECE at IIT Kharagpur with a keen intrest in web devlopment!!
 
-- 🔭 I just completed my first JavaScript course: [The complete JavaScript course][course]!
-- 🌱 I’m currently learning React Js 😃
+- 🔭 I just completed my first nodejs course: [The complete JavaScript course][course]!
+- 🌱 I’m currently learning Next Js 😃
 - 👯 I’m looking to skill up in other fields and explore more fields
 - 🥅 2022 Goals: Contribute more to Open Source projects and explore college life!
 - ⚡ Fun fact: I love to play Chess
